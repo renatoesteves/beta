@@ -7,7 +7,7 @@ O **RestauranteApp** é um sistema desenvolvido para auxiliar restaurantes no ge
 - **Frontend Web:** React.js
 - **Aplicativo Mobile:** React Native
 - **Backend:** Node.js com Express
-- **Banco de Dados:** MariaDB
+- **Banco de Dados:** Postgres/PRisma
 - **Autenticação:** JWT (JSON Web Token)
 - **Arquitetura:** MVC, REST, SOA, DAO
 
